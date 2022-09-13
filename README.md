@@ -2,6 +2,7 @@
 A collection of utility functions
 
 #Examples
+#2 ejemplos 
 
 ```
 getElementRandom([1,2,3]);
